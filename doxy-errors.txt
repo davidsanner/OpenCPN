@@ -1,0 +1,1238 @@
+warning: ignoring unsupported tag 'CREATE_SUBDIRS_LEVEL' at line 93, file Doxyfile
+warning: ignoring unsupported tag 'SHOW_HEADERFILE' at line 632, file Doxyfile
+warning: ignoring unsupported tag 'WARN_IF_INCOMPLETE_DOC' at line 850, file Doxyfile
+warning: ignoring unsupported tag 'WARN_LINE_FORMAT' at line 890, file Doxyfile
+warning: ignoring unsupported tag 'INPUT_FILE_ENCODING' at line 931, file Doxyfile
+warning: ignoring unsupported tag 'FORTRAN_COMMENT_AFTER' at line 1135, file Doxyfile
+warning: ignoring unsupported tag 'HTML_COLORSTYLE' at line 1386, file Doxyfile
+warning: ignoring unsupported tag 'DOCSET_FEEDURL' at line 1487, file Doxyfile
+warning: ignoring unsupported tag 'FULL_SIDEBAR' at line 1698, file Doxyfile
+warning: ignoring unsupported tag 'OBFUSCATE_EMAILS' at line 1729, file Doxyfile
+warning: ignoring unsupported tag 'MATHJAX_VERSION' at line 1777, file Doxyfile
+warning: ignoring unsupported tag 'DOT_COMMON_ATTR' at line 2477, file Doxyfile
+warning: ignoring unsupported tag 'DOT_EDGE_ATTR' at line 2486, file Doxyfile
+warning: ignoring unsupported tag 'DOT_NODE_ATTR' at line 2494, file Doxyfile
+warning: ignoring unsupported tag 'DIR_GRAPH_MAX_DEPTH' at line 2644, file Doxyfile
+warning: argument 'SYSTEM' for option CASE_SENSE_NAMES is not a valid boolean value
+Using the default: YES!
+warning: tag INPUT: input source '../src' does not exist
+warning: tag INPUT: input source 'api-src/*' does not exist
+warning: source '../src' is not a readable file or directory... skipping.
+warning: source 'api-src/*' is not a readable file or directory... skipping.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1379: warning: Compound OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1063: warning: Compound PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1048: warning: Compound PI_line_segment_element is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:277: warning: Compound PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:950: warning: Compound PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:994: warning: Compound PlugInChartBaseExtendedPlus2 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:911: warning: Compound PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:936: warning: Compound PlugInChartBaseGLPlus2 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:190: warning: Compound PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:149: warning: Compound PlugIn_Position_Fix is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:160: warning: Compound PlugIn_Position_Fix_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:675: warning: Compound PlugIn_Route is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1569: warning: Compound PlugIn_Route_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:688: warning: Compound PlugIn_Track is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:128: warning: Compound PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:651: warning: Compound PlugIn_Waypoint is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1523: warning: Compound PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:173: warning: Compound Plugin_Active_Leg_Info is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:642: warning: Compound Plugin_Hyperlink is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:260: warning: Compound _ExtentPI is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:387: warning: Compound opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:505: warning: Compound opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:513: warning: Compound opencpn_plugin_111 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:519: warning: Compound opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:531: warning: Compound opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:541: warning: Compound opencpn_plugin_114 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:547: warning: Compound opencpn_plugin_115 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:553: warning: Compound opencpn_plugin_116 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:564: warning: Compound opencpn_plugin_117 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:586: warning: Compound opencpn_plugin_118 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:455: warning: Compound opencpn_plugin_16 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:467: warning: Compound opencpn_plugin_17 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:480: warning: Compound opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:497: warning: Compound opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/intro.h:1: warning: Found unknown command '\title'
+/home/runner/work/OpenCPN/OpenCPN/include/intro-plugin-comm.h:41: warning: found subsection command (id: 'epilog') outside of section context!
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:261: warning: Member SLAT (variable) of struct _ExtentPI is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:262: warning: Member WLON (variable) of struct _ExtentPI is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:263: warning: Member NLAT (variable) of struct _ExtentPI is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:264: warning: Member ELON (variable) of struct _ExtentPI is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable_confvar.h:69: warning: Member ConfigVar(const std::string &section_, const std::string &key_, wxConfigBase *cb) (function) of class ConfigVar is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable_confvar.h:72: warning: Member Set(const T &arg) (function) of class ConfigVar is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable_confvar.h:74: warning: Member Get(const T &default_val) (function) of class ConfigVar is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:86: warning: Member Observable(const std::string &_key) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:89: warning: Member Observable(const KeyProvider &kp) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:94: warning: Member Notify(std::shared_ptr< const void > p) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:102: warning: Member GetKey() const (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:116: warning: Member Notify(const std::string &s, void *client_data) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:86: warning: Member Observable(const std::string &_key) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:89: warning: Member Observable(const KeyProvider &kp) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:94: warning: Member Notify(std::shared_ptr< const void > p) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:102: warning: Member GetKey() const (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:116: warning: Member Notify(const std::string &s, void *client_data) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable_globvar.h:73: warning: Member GlobalVar(T *ptr) (function) of class GlobalVar is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable_globvar.h:75: warning: Member Set(const T &arg) (function) of class GlobalVar is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable_globvar.h:80: warning: Member Get() (function) of class GlobalVar is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:86: warning: Member Observable(const std::string &_key) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:89: warning: Member Observable(const KeyProvider &kp) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:94: warning: Member Notify(std::shared_ptr< const void > p) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:102: warning: Member GetKey() const (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:116: warning: Member Notify(const std::string &s, void *client_data) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:57: warning: Member GetKey() const =0 (function) of class KeyProvider is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1732: warning: Member type (variable) of struct NavDataId is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1684: warning: Member NMEA0183Id(const std::string &s) (function) of struct NMEA0183Id is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1683: warning: Member id (variable) of struct NMEA0183Id is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1675: warning: Member NMEA2000Id(int value) (function) of struct NMEA2000Id is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1674: warning: Member id (variable) of struct NMEA2000Id is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:86: warning: Member Observable(const std::string &_key) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:89: warning: Member Observable(const KeyProvider &kp) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:94: warning: Member Notify(std::shared_ptr< const void > p) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:102: warning: Member GetKey() const (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:116: warning: Member Notify(const std::string &s, void *client_data) (function) of class Observable is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:144: warning: Member ObservableListener(const KeyProvider &kp, wxEvtHandler *l, wxEventType e) (function) of class ObservableListener is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable.h:162: warning: Member Listen(const KeyProvider &kp, wxEvtHandler *l, wxEventType evt) (function) of class ObservableListener is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1652: warning: Member ObservedEvt(wxEventType commandType=obsNOTIFY, int id=0) (function) of class ObservedEvt is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1654: warning: Member ObservedEvt(const ObservedEvt &event) (function) of class ObservedEvt is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1658: warning: Member Clone() const (function) of class ObservedEvt is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1660: warning: Member GetSharedPtr() const (function) of class ObservedEvt is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1662: warning: Member SetSharedPtr(std::shared_ptr< const void > p) (function) of class ObservedEvt is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable_evt.h:39: warning: Member ObservedEvt(wxEventType commandType=obsNOTIFY, int id=0) (function) of class ObservedEvt is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable_evt.h:42: warning: Member ObservedEvt(const ObservedEvt &event) (function) of class ObservedEvt is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable_evt.h:46: warning: Member Clone() const (function) of class ObservedEvt is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable_evt.h:48: warning: Member GetSharedPtr() const (function) of class ObservedEvt is not documented.
+/home/runner/work/OpenCPN/OpenCPN/libs/observable/include/observable_evt.h:50: warning: Member SetSharedPtr(std::shared_ptr< const void > p) (function) of class ObservedEvt is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1381: warning: Member OCPN_downloadEvent(wxEventType commandType=wxEVT_NULL, int id=0) (function) of class OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1385: warning: Member getDLEventStatus() (function) of class OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1386: warning: Member getDLEventCondition() (function) of class OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1388: warning: Member setDLEventStatus(_OCPN_DLStatus stat) (function) of class OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1389: warning: Member setDLEventCondition(OCPN_DLCondition cond) (function) of class OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1391: warning: Member setTotal(long bytes) (function) of class OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1392: warning: Member setTransferred(long bytes) (function) of class OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1393: warning: Member getTotal() (function) of class OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1394: warning: Member getTransferred() (function) of class OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1396: warning: Member setComplete(bool b_complete) (function) of class OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1397: warning: Member getComplete() (function) of class OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1400: warning: Member Clone() const (function) of class OCPN_downloadEvent is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:507: warning: Member opencpn_plugin_110(void *pmgr) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:510: warning: Member LateInit(void) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:499: warning: Member opencpn_plugin_19(void *pmgr) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:502: warning: Member OnSetupOptions(void) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:482: warning: Member opencpn_plugin_18(void *pmgr) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:487: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:488: warning: Member RenderGLOverlay(wxGLContext *pcontext, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:489: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:490: warning: Member SetPositionFixEx(PlugIn_Position_Fix_Ex &pfix) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:485: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:515: warning: Member opencpn_plugin_111(void *pmgr) (function) of class opencpn_plugin_111 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:507: warning: Member opencpn_plugin_110(void *pmgr) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:510: warning: Member LateInit(void) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:499: warning: Member opencpn_plugin_19(void *pmgr) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:502: warning: Member OnSetupOptions(void) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:482: warning: Member opencpn_plugin_18(void *pmgr) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:487: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:488: warning: Member RenderGLOverlay(wxGLContext *pcontext, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:489: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:490: warning: Member SetPositionFixEx(PlugIn_Position_Fix_Ex &pfix) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:485: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:521: warning: Member opencpn_plugin_112(void *pmgr) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:524: warning: Member MouseEventHook(wxMouseEvent &event) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:525: warning: Member SendVectorChartObjectInfo(wxString &chart, wxString &feature, wxString &objname, double lat, double lon, double scale, int nativescale) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:515: warning: Member opencpn_plugin_111(void *pmgr) (function) of class opencpn_plugin_111 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:507: warning: Member opencpn_plugin_110(void *pmgr) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:510: warning: Member LateInit(void) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:499: warning: Member opencpn_plugin_19(void *pmgr) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:502: warning: Member OnSetupOptions(void) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:482: warning: Member opencpn_plugin_18(void *pmgr) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:487: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:488: warning: Member RenderGLOverlay(wxGLContext *pcontext, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:489: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:490: warning: Member SetPositionFixEx(PlugIn_Position_Fix_Ex &pfix) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:485: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:533: warning: Member opencpn_plugin_113(void *pmgr) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:536: warning: Member KeyboardEventHook(wxKeyEvent &event) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:537: warning: Member OnToolbarToolDownCallback(int id) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:538: warning: Member OnToolbarToolUpCallback(int id) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:521: warning: Member opencpn_plugin_112(void *pmgr) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:524: warning: Member MouseEventHook(wxMouseEvent &event) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:525: warning: Member SendVectorChartObjectInfo(wxString &chart, wxString &feature, wxString &objname, double lat, double lon, double scale, int nativescale) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:515: warning: Member opencpn_plugin_111(void *pmgr) (function) of class opencpn_plugin_111 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:507: warning: Member opencpn_plugin_110(void *pmgr) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:510: warning: Member LateInit(void) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:499: warning: Member opencpn_plugin_19(void *pmgr) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:502: warning: Member OnSetupOptions(void) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:482: warning: Member opencpn_plugin_18(void *pmgr) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:487: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:488: warning: Member RenderGLOverlay(wxGLContext *pcontext, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:489: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:490: warning: Member SetPositionFixEx(PlugIn_Position_Fix_Ex &pfix) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:485: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:543: warning: Member opencpn_plugin_114(void *pmgr) (function) of class opencpn_plugin_114 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:533: warning: Member opencpn_plugin_113(void *pmgr) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:536: warning: Member KeyboardEventHook(wxKeyEvent &event) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:537: warning: Member OnToolbarToolDownCallback(int id) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:538: warning: Member OnToolbarToolUpCallback(int id) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:521: warning: Member opencpn_plugin_112(void *pmgr) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:524: warning: Member MouseEventHook(wxMouseEvent &event) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:525: warning: Member SendVectorChartObjectInfo(wxString &chart, wxString &feature, wxString &objname, double lat, double lon, double scale, int nativescale) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:515: warning: Member opencpn_plugin_111(void *pmgr) (function) of class opencpn_plugin_111 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:507: warning: Member opencpn_plugin_110(void *pmgr) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:510: warning: Member LateInit(void) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:499: warning: Member opencpn_plugin_19(void *pmgr) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:502: warning: Member OnSetupOptions(void) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:482: warning: Member opencpn_plugin_18(void *pmgr) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:487: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:488: warning: Member RenderGLOverlay(wxGLContext *pcontext, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:489: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:490: warning: Member SetPositionFixEx(PlugIn_Position_Fix_Ex &pfix) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:485: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:549: warning: Member opencpn_plugin_115(void *pmgr) (function) of class opencpn_plugin_115 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:543: warning: Member opencpn_plugin_114(void *pmgr) (function) of class opencpn_plugin_114 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:533: warning: Member opencpn_plugin_113(void *pmgr) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:536: warning: Member KeyboardEventHook(wxKeyEvent &event) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:537: warning: Member OnToolbarToolDownCallback(int id) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:538: warning: Member OnToolbarToolUpCallback(int id) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:521: warning: Member opencpn_plugin_112(void *pmgr) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:524: warning: Member MouseEventHook(wxMouseEvent &event) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:525: warning: Member SendVectorChartObjectInfo(wxString &chart, wxString &feature, wxString &objname, double lat, double lon, double scale, int nativescale) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:515: warning: Member opencpn_plugin_111(void *pmgr) (function) of class opencpn_plugin_111 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:507: warning: Member opencpn_plugin_110(void *pmgr) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:510: warning: Member LateInit(void) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:499: warning: Member opencpn_plugin_19(void *pmgr) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:502: warning: Member OnSetupOptions(void) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:482: warning: Member opencpn_plugin_18(void *pmgr) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:487: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:488: warning: Member RenderGLOverlay(wxGLContext *pcontext, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:489: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:490: warning: Member SetPositionFixEx(PlugIn_Position_Fix_Ex &pfix) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:485: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:555: warning: Member opencpn_plugin_116(void *pmgr) (function) of class opencpn_plugin_116 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:557: warning: Member RenderGLOverlayMultiCanvas(wxGLContext *pcontext, PlugIn_ViewPort *vp, int canvasIndex) (function) of class opencpn_plugin_116 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:559: warning: Member RenderOverlayMultiCanvas(wxDC &dc, PlugIn_ViewPort *vp, int canvasIndex) (function) of class opencpn_plugin_116 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:561: warning: Member PrepareContextMenu(int canvasIndex) (function) of class opencpn_plugin_116 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:549: warning: Member opencpn_plugin_115(void *pmgr) (function) of class opencpn_plugin_115 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:543: warning: Member opencpn_plugin_114(void *pmgr) (function) of class opencpn_plugin_114 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:533: warning: Member opencpn_plugin_113(void *pmgr) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:536: warning: Member KeyboardEventHook(wxKeyEvent &event) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:537: warning: Member OnToolbarToolDownCallback(int id) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:538: warning: Member OnToolbarToolUpCallback(int id) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:521: warning: Member opencpn_plugin_112(void *pmgr) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:524: warning: Member MouseEventHook(wxMouseEvent &event) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:525: warning: Member SendVectorChartObjectInfo(wxString &chart, wxString &feature, wxString &objname, double lat, double lon, double scale, int nativescale) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:515: warning: Member opencpn_plugin_111(void *pmgr) (function) of class opencpn_plugin_111 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:507: warning: Member opencpn_plugin_110(void *pmgr) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:510: warning: Member LateInit(void) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:499: warning: Member opencpn_plugin_19(void *pmgr) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:502: warning: Member OnSetupOptions(void) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:482: warning: Member opencpn_plugin_18(void *pmgr) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:487: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:488: warning: Member RenderGLOverlay(wxGLContext *pcontext, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:489: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:490: warning: Member SetPositionFixEx(PlugIn_Position_Fix_Ex &pfix) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:485: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:566: warning: Member opencpn_plugin_117(void *pmgr) (function) of class opencpn_plugin_117 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:571: warning: Member GetPlugInVersionPatch() (function) of class opencpn_plugin_117 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:583: warning: Member SetActiveLegInfo(Plugin_Active_Leg_Info &leg_info) (function) of class opencpn_plugin_117 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:555: warning: Member opencpn_plugin_116(void *pmgr) (function) of class opencpn_plugin_116 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:557: warning: Member RenderGLOverlayMultiCanvas(wxGLContext *pcontext, PlugIn_ViewPort *vp, int canvasIndex) (function) of class opencpn_plugin_116 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:559: warning: Member RenderOverlayMultiCanvas(wxDC &dc, PlugIn_ViewPort *vp, int canvasIndex) (function) of class opencpn_plugin_116 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:561: warning: Member PrepareContextMenu(int canvasIndex) (function) of class opencpn_plugin_116 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:549: warning: Member opencpn_plugin_115(void *pmgr) (function) of class opencpn_plugin_115 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:543: warning: Member opencpn_plugin_114(void *pmgr) (function) of class opencpn_plugin_114 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:533: warning: Member opencpn_plugin_113(void *pmgr) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:536: warning: Member KeyboardEventHook(wxKeyEvent &event) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:537: warning: Member OnToolbarToolDownCallback(int id) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:538: warning: Member OnToolbarToolUpCallback(int id) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:521: warning: Member opencpn_plugin_112(void *pmgr) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:524: warning: Member MouseEventHook(wxMouseEvent &event) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:525: warning: Member SendVectorChartObjectInfo(wxString &chart, wxString &feature, wxString &objname, double lat, double lon, double scale, int nativescale) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:515: warning: Member opencpn_plugin_111(void *pmgr) (function) of class opencpn_plugin_111 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:507: warning: Member opencpn_plugin_110(void *pmgr) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:510: warning: Member LateInit(void) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:499: warning: Member opencpn_plugin_19(void *pmgr) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:502: warning: Member OnSetupOptions(void) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:482: warning: Member opencpn_plugin_18(void *pmgr) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:487: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:488: warning: Member RenderGLOverlay(wxGLContext *pcontext, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:489: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:490: warning: Member SetPositionFixEx(PlugIn_Position_Fix_Ex &pfix) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:485: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:588: warning: Member opencpn_plugin_118(void *pmgr) (function) of class opencpn_plugin_118 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:608: warning: Member RenderGLOverlayMultiCanvas(wxGLContext *pcontext, PlugIn_ViewPort *vp, int canvas_ix) override (function) of class opencpn_plugin_118 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:630: warning: Member RenderOverlayMultiCanvas(wxDC &dc, PlugIn_ViewPort *vp, int canvas_ix) override (function) of class opencpn_plugin_118 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:590: warning: Member RenderGLOverlayMultiCanvas(wxGLContext *pcontext, PlugIn_ViewPort *vp, int canvasIndex) (function) of class opencpn_plugin_118 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:591: warning: Member RenderOverlayMultiCanvas(wxDC &dc, PlugIn_ViewPort *vp, int canvasIndex) (function) of class opencpn_plugin_118 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:566: warning: Member opencpn_plugin_117(void *pmgr) (function) of class opencpn_plugin_117 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:571: warning: Member GetPlugInVersionPatch() (function) of class opencpn_plugin_117 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:583: warning: Member SetActiveLegInfo(Plugin_Active_Leg_Info &leg_info) (function) of class opencpn_plugin_117 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:555: warning: Member opencpn_plugin_116(void *pmgr) (function) of class opencpn_plugin_116 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:561: warning: Member PrepareContextMenu(int canvasIndex) (function) of class opencpn_plugin_116 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:549: warning: Member opencpn_plugin_115(void *pmgr) (function) of class opencpn_plugin_115 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:543: warning: Member opencpn_plugin_114(void *pmgr) (function) of class opencpn_plugin_114 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:533: warning: Member opencpn_plugin_113(void *pmgr) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:536: warning: Member KeyboardEventHook(wxKeyEvent &event) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:537: warning: Member OnToolbarToolDownCallback(int id) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:538: warning: Member OnToolbarToolUpCallback(int id) (function) of class opencpn_plugin_113 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:521: warning: Member opencpn_plugin_112(void *pmgr) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:524: warning: Member MouseEventHook(wxMouseEvent &event) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:525: warning: Member SendVectorChartObjectInfo(wxString &chart, wxString &feature, wxString &objname, double lat, double lon, double scale, int nativescale) (function) of class opencpn_plugin_112 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:515: warning: Member opencpn_plugin_111(void *pmgr) (function) of class opencpn_plugin_111 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:507: warning: Member opencpn_plugin_110(void *pmgr) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:510: warning: Member LateInit(void) (function) of class opencpn_plugin_110 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:499: warning: Member opencpn_plugin_19(void *pmgr) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:502: warning: Member OnSetupOptions(void) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:482: warning: Member opencpn_plugin_18(void *pmgr) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:487: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:488: warning: Member RenderGLOverlay(wxGLContext *pcontext, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:489: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:490: warning: Member SetPositionFixEx(PlugIn_Position_Fix_Ex &pfix) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:485: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:618: warning: argument 'canvasIndex' of command @param is not found in the argument list of opencpn_plugin_118::RenderOverlayMultiCanvas(wxDC &dc, PlugIn_ViewPort *vp, int canvas_ix, int priority)
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:628: warning: The following parameter of opencpn_plugin_118::RenderOverlayMultiCanvas(wxDC &dc, PlugIn_ViewPort *vp, int canvas_ix, int priority) is not documented:
+  parameter 'canvas_ix'
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:457: warning: Member opencpn_plugin_16(void *pmgr) (function) of class opencpn_plugin_16 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:462: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_16 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:464: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_16 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:460: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_16 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:469: warning: Member opencpn_plugin_17(void *pmgr) (function) of class opencpn_plugin_17 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:474: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_17 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:475: warning: Member RenderGLOverlay(wxGLContext *pcontext, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_17 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:477: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_17 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:472: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_17 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:482: warning: Member opencpn_plugin_18(void *pmgr) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:487: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:488: warning: Member RenderGLOverlay(wxGLContext *pcontext, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:489: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:490: warning: Member SetPositionFixEx(PlugIn_Position_Fix_Ex &pfix) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:485: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:499: warning: Member opencpn_plugin_19(void *pmgr) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:502: warning: Member OnSetupOptions(void) (function) of class opencpn_plugin_19 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:482: warning: Member opencpn_plugin_18(void *pmgr) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:487: warning: Member RenderOverlay(wxDC &dc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:488: warning: Member RenderGLOverlay(wxGLContext *pcontext, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:489: warning: Member SetPluginMessage(wxString &message_id, wxString &message_body) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:490: warning: Member SetPositionFixEx(PlugIn_Position_Fix_Ex &pfix) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:485: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin_18 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:389: warning: Member opencpn_plugin(void *pmgr) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:396: warning: Member Init(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:397: warning: Member DeInit(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:399: warning: Member GetAPIVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:400: warning: Member GetAPIVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:401: warning: Member GetPlugInVersionMajor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:402: warning: Member GetPlugInVersionMinor() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:403: warning: Member GetPlugInBitmap() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:408: warning: Member GetCommonName() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:409: warning: Member GetShortDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:410: warning: Member GetLongDescription() (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:415: warning: Member SetDefaults(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:419: warning: Member GetToolbarToolCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:421: warning: Member GetToolboxPanelCount(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:422: warning: Member SetupToolboxPanel(int page_sel, wxNotebook *pnotebook) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:423: warning: Member OnCloseToolboxPanel(int page_sel, int ok_apply_cancel) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:425: warning: Member ShowPreferencesDialog(wxWindow *parent) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:427: warning: Member RenderOverlay(wxMemoryDC *pmdc, PlugIn_ViewPort *vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:428: warning: Member SetCursorLatLon(double lat, double lon) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:429: warning: Member SetCurrentViewPort(PlugIn_ViewPort &vp) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:431: warning: Member SetPositionFix(PlugIn_Position_Fix &pfix) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:432: warning: Member SetNMEASentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:433: warning: Member SetAISSentence(wxString &sentence) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:435: warning: Member ProcessParentResize(int x, int y) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:436: warning: Member SetColorScheme(PI_ColorScheme cs) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:438: warning: Member OnToolbarToolCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:439: warning: Member OnContextMenuItemCallback(int id) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:441: warning: Member UpdateAuiStatus(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:443: warning: Member GetDynamicChartClassNameArray(void) (function) of class opencpn_plugin is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1050: warning: Member vbo_offset (variable) of class PI_line_segment_element is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1051: warning: Member n_points (variable) of class PI_line_segment_element is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1052: warning: Member priority (variable) of class PI_line_segment_element is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1053: warning: Member lat_max (variable) of class PI_line_segment_element is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1054: warning: Member lat_min (variable) of class PI_line_segment_element is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1055: warning: Member lon_max (variable) of class PI_line_segment_element is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1056: warning: Member lon_min (variable) of class PI_line_segment_element is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1057: warning: Member type (variable) of class PI_line_segment_element is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1058: warning: Member private0 (variable) of class PI_line_segment_element is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1060: warning: Member next (variable) of class PI_line_segment_element is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1070: warning: Member FeatureName[8] (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1071: warning: Member Primitive_type (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1073: warning: Member att_array (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1074: warning: Member attVal (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1075: warning: Member n_attr (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1077: warning: Member iOBJL (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1078: warning: Member Index (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1080: warning: Member x (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1081: warning: Member y (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1082: warning: Member z (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1083: warning: Member npt (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1084: warning: Member geoPt (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1085: warning: Member geoPtz (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1086: warning: Member geoPtMulti (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1089: warning: Member pPolyTessGeo (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1091: warning: Member m_lat (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1092: warning: Member m_lon (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1094: warning: Member chart_ref_lat (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1095: warning: Member chart_ref_lon (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1097: warning: Member lat_min (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1098: warning: Member lat_max (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1099: warning: Member lon_min (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1100: warning: Member lon_max (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1102: warning: Member Scamin (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1104: warning: Member bIsClone (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1105: warning: Member nRef (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1107: warning: Member bIsAton (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1108: warning: Member bIsAssociable (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1110: warning: Member m_n_lsindex (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1111: warning: Member m_lsindex_array (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1112: warning: Member m_n_edge_max_points (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1113: warning: Member m_chart_context (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1115: warning: Member m_DisplayCat (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1117: warning: Member S52_Context (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1118: warning: Member child (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1120: warning: Member next (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1124: warning: Member x_rate (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1125: warning: Member y_rate (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1126: warning: Member x_origin (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1127: warning: Member y_origin (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1129: warning: Member auxParm0 (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1130: warning: Member auxParm1 (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1131: warning: Member auxParm2 (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1132: warning: Member auxParm3 (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1134: warning: Member m_ls_list (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1135: warning: Member m_bcategory_mutable (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1136: warning: Member m_DPRI (variable) of class PI_S57Obj is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:175: warning: Member Xte (variable) of class Plugin_Active_Leg_Info is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:176: warning: Member Btw (variable) of class Plugin_Active_Leg_Info is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:177: warning: Member Dtw (variable) of class Plugin_Active_Leg_Info is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:178: warning: Member wp_name (variable) of class Plugin_Active_Leg_Info is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:179: warning: Member arrival (variable) of class Plugin_Active_Leg_Info is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:192: warning: Member MMSI (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:193: warning: Member Class (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:194: warning: Member NavStatus (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:195: warning: Member SOG (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:196: warning: Member COG (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:197: warning: Member HDG (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:198: warning: Member Lon (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:199: warning: Member Lat (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:200: warning: Member ROTAIS (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:201: warning: Member CallSign[8] (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:202: warning: Member ShipName[21] (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:203: warning: Member ShipType (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:204: warning: Member IMO (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:206: warning: Member Range_NM (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:207: warning: Member Brg (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:210: warning: Member bCPA_Valid (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:211: warning: Member TCPA (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:212: warning: Member CPA (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:214: warning: Member alarm_state (variable) of class PlugIn_AIS_Target is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:644: warning: Member DescrText (variable) of class Plugin_Hyperlink is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:645: warning: Member Link (variable) of class Plugin_Hyperlink is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:646: warning: Member Type (variable) of class Plugin_Hyperlink is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:151: warning: Member Lat (variable) of class PlugIn_Position_Fix is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:152: warning: Member Lon (variable) of class PlugIn_Position_Fix is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:153: warning: Member Cog (variable) of class PlugIn_Position_Fix is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:154: warning: Member Sog (variable) of class PlugIn_Position_Fix is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:155: warning: Member Var (variable) of class PlugIn_Position_Fix is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:156: warning: Member FixTime (variable) of class PlugIn_Position_Fix is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:157: warning: Member nSats (variable) of class PlugIn_Position_Fix is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:162: warning: Member Lat (variable) of class PlugIn_Position_Fix_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:163: warning: Member Lon (variable) of class PlugIn_Position_Fix_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:164: warning: Member Cog (variable) of class PlugIn_Position_Fix_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:165: warning: Member Sog (variable) of class PlugIn_Position_Fix_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:166: warning: Member Var (variable) of class PlugIn_Position_Fix_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:167: warning: Member Hdm (variable) of class PlugIn_Position_Fix_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:168: warning: Member Hdt (variable) of class PlugIn_Position_Fix_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:169: warning: Member FixTime (variable) of class PlugIn_Position_Fix_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:170: warning: Member nSats (variable) of class PlugIn_Position_Fix_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:680: warning: Member m_NameString (variable) of class PlugIn_Route is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:681: warning: Member m_StartString (variable) of class PlugIn_Route is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:682: warning: Member m_EndString (variable) of class PlugIn_Route is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:683: warning: Member m_GUID (variable) of class PlugIn_Route is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:685: warning: Member pWaypointList (variable) of class PlugIn_Route is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1574: warning: Member m_NameString (variable) of class PlugIn_Route_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1575: warning: Member m_StartString (variable) of class PlugIn_Route_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1576: warning: Member m_EndString (variable) of class PlugIn_Route_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1577: warning: Member m_GUID (variable) of class PlugIn_Route_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1578: warning: Member m_isActive (variable) of class PlugIn_Route_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1579: warning: Member m_isVisible (variable) of class PlugIn_Route_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1580: warning: Member m_Description (variable) of class PlugIn_Route_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1583: warning: Member pWaypointList (variable) of class PlugIn_Route_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:693: warning: Member m_NameString (variable) of class PlugIn_Track is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:694: warning: Member m_StartString (variable) of class PlugIn_Track is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:695: warning: Member m_EndString (variable) of class PlugIn_Track is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:696: warning: Member m_GUID (variable) of class PlugIn_Track is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:698: warning: Member pWaypointList (variable) of class PlugIn_Track is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:130: warning: Member clat (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:131: warning: Member clon (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:132: warning: Member view_scale_ppm (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:133: warning: Member skew (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:134: warning: Member rotation (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:136: warning: Member chart_scale (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:138: warning: Member pix_width (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:139: warning: Member pix_height (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:140: warning: Member rv_rect (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:141: warning: Member b_quilt (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:142: warning: Member m_projection_type (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:144: warning: Member lat_min (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:144: warning: Member lat_max (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:144: warning: Member lon_min (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:144: warning: Member lon_max (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:146: warning: Member bValid (variable) of class PlugIn_ViewPort is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:654: warning: Member PlugIn_Waypoint(double lat, double lon, const wxString &icon_ident, const wxString &wp_name, const wxString &GUID=_T("")) (function) of class PlugIn_Waypoint is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:658: warning: Member m_lat (variable) of class PlugIn_Waypoint is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:659: warning: Member m_lon (variable) of class PlugIn_Waypoint is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:661: warning: Member m_GUID (variable) of class PlugIn_Waypoint is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:663: warning: Member m_MarkName (variable) of class PlugIn_Waypoint is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:664: warning: Member m_MarkDescription (variable) of class PlugIn_Waypoint is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:665: warning: Member m_CreateTime (variable) of class PlugIn_Waypoint is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:666: warning: Member m_IsVisible (variable) of class PlugIn_Waypoint is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:668: warning: Member m_IconName (variable) of class PlugIn_Waypoint is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:670: warning: Member m_HyperlinkList (variable) of class PlugIn_Waypoint is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1526: warning: Member PlugIn_Waypoint_Ex(double lat, double lon, const wxString &icon_ident, const wxString &wp_name, const wxString &GUID="", const double ScaMin=1e9, const bool bNameVisible=false, const int nRanges=0, const double RangeDistance=1.0, const wxColor RangeColor=wxColor(255, 0, 0)) (function) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1532: warning: Member InitDefaults() (function) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1534: warning: Member GetFSStatus() (function) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1540: warning: Member GetRouteMembershipCount() (function) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1543: warning: Member m_lat (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1544: warning: Member m_lon (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1546: warning: Member m_GUID (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1548: warning: Member m_MarkName (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1549: warning: Member m_MarkDescription (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1550: warning: Member m_CreateTime (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1551: warning: Member IsVisible (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1552: warning: Member IsActive (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1554: warning: Member scamin (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1555: warning: Member b_useScamin (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1556: warning: Member IsNameVisible (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1557: warning: Member nrange_rings (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1558: warning: Member RangeRingSpace (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1559: warning: Member RangeRingColor (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1561: warning: Member IconName (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1562: warning: Member IconDescription (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1564: warning: Member m_HyperlinkList (variable) of class PlugIn_Waypoint_Ex is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:283: warning: Member GetFileSearchMask(void) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:285: warning: Member Init(const wxString &full_path, int init_flags) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:286: warning: Member SetColorScheme(int cs, bool bApplyImmediate) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:288: warning: Member GetNormalScaleMin(double canvas_scale_factor, bool b_allow_overzoom) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:290: warning: Member GetNormalScaleMax(double canvas_scale_factor, int canvas_width) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:292: warning: Member GetNearestPreferredScalePPM(double target_scale_ppm) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:294: warning: Member GetChartExtent(ExtentPI *pext) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:296: warning: Member RenderRegionView(const PlugIn_ViewPort &VPoint, const wxRegion &Region) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:299: warning: Member AdjustVP(PlugIn_ViewPort &vp_last, PlugIn_ViewPort &vp_proposed) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:301: warning: Member GetValidCanvasRegion(const PlugIn_ViewPort &VPoint, wxRegion *pValidRegion) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:304: warning: Member GetCOVREntries() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:305: warning: Member GetCOVRTablePoints(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:306: warning: Member GetCOVRTablenPoints(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:307: warning: Member GetCOVRTableHead(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:309: warning: Member GetThumbnail(int tnx, int tny, int cs) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:313: warning: Member GetFullPath() const (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:314: warning: Member GetChartType() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:315: warning: Member GetChartFamily() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:316: warning: Member GetChartProjection() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:317: warning: Member GetName() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:318: warning: Member GetDescription() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:319: warning: Member GetID() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:320: warning: Member GetSE() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:321: warning: Member GetDepthUnits() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:322: warning: Member GetSoundingsDatum() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:323: warning: Member GetDatumString() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:324: warning: Member GetExtraInfo() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:325: warning: Member GetPubDate() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:326: warning: Member GetChartErrorFactor() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:327: warning: Member GetDepthUnitId() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:328: warning: Member IsReadyToRender() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:329: warning: Member GetNativeScale() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:330: warning: Member GetChartSkew() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:331: warning: Member GetEditionDate(void) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:334: warning: Member ComputeSourceRectangle(const PlugIn_ViewPort &vp, wxRect *pSourceRect) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:336: warning: Member GetRasterScaleFactor() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:337: warning: Member GetChartBits(wxRect &source, unsigned char *pPix, int sub_samp) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:338: warning: Member GetSize_X() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:339: warning: Member GetSize_Y() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:340: warning: Member latlong_to_chartpix(double lat, double lon, double &pixx, double &pixy) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:342: warning: Member chartpix_to_latlong(double pixx, double pixy, double *plat, double *plon) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:346: warning: Member m_ChartType (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:347: warning: Member m_ChartFamily (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:349: warning: Member m_FullPath (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:350: warning: Member m_projection (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:351: warning: Member m_Chart_Scale (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:352: warning: Member m_Chart_Skew (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:354: warning: Member m_EdDate (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:355: warning: Member m_bReadyToRender (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:357: warning: Member m_Name (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:358: warning: Member m_Description (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:359: warning: Member m_ID (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:360: warning: Member m_SE (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:361: warning: Member m_SoundingsDatum (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:362: warning: Member m_datum_str (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:363: warning: Member m_PubYear (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:364: warning: Member m_DepthUnits (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:365: warning: Member m_ExtraInfo (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:367: warning: Member m_depth_unit_id (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:369: warning: Member m_Chart_Error_Factor (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:955: warning: Member RenderRegionViewOnGL(const wxGLContext &glc, const PlugIn_ViewPort &VPoint, const wxRegion &Region, bool b_use_stencil) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:959: warning: Member RenderRegionViewOnDCNoText(const PlugIn_ViewPort &VPoint, const wxRegion &Region) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:961: warning: Member RenderRegionViewOnDCTextOnly(wxMemoryDC &dc, const PlugIn_ViewPort &VPoint, const wxRegion &Region) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:965: warning: Member RenderRegionViewOnGLNoText(const wxGLContext &glc, const PlugIn_ViewPort &VPoint, const wxRegion &Region, bool b_use_stencil) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:970: warning: Member RenderRegionViewOnGLTextOnly(const wxGLContext &glc, const PlugIn_ViewPort &VPoint, const wxRegion &Region, bool b_use_stencil) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:975: warning: Member GetObjRuleListAtLatLon(float lat, float lon, float select_radius, PlugIn_ViewPort *VPoint) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:978: warning: Member CreateObjDescriptions(ListOfPI_S57Obj *obj_list) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:980: warning: Member GetNoCOVREntries() (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:981: warning: Member GetNoCOVRTablePoints(int iTable) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:982: warning: Member GetNoCOVRTablenPoints(int iTable) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:983: warning: Member GetNoCOVRTableHead(int iTable) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:985: warning: Member ClearPLIBTextList() (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:283: warning: Member GetFileSearchMask(void) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:285: warning: Member Init(const wxString &full_path, int init_flags) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:286: warning: Member SetColorScheme(int cs, bool bApplyImmediate) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:288: warning: Member GetNormalScaleMin(double canvas_scale_factor, bool b_allow_overzoom) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:290: warning: Member GetNormalScaleMax(double canvas_scale_factor, int canvas_width) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:292: warning: Member GetNearestPreferredScalePPM(double target_scale_ppm) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:294: warning: Member GetChartExtent(ExtentPI *pext) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:296: warning: Member RenderRegionView(const PlugIn_ViewPort &VPoint, const wxRegion &Region) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:299: warning: Member AdjustVP(PlugIn_ViewPort &vp_last, PlugIn_ViewPort &vp_proposed) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:301: warning: Member GetValidCanvasRegion(const PlugIn_ViewPort &VPoint, wxRegion *pValidRegion) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:304: warning: Member GetCOVREntries() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:305: warning: Member GetCOVRTablePoints(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:306: warning: Member GetCOVRTablenPoints(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:307: warning: Member GetCOVRTableHead(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:309: warning: Member GetThumbnail(int tnx, int tny, int cs) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:313: warning: Member GetFullPath() const (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:314: warning: Member GetChartType() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:315: warning: Member GetChartFamily() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:316: warning: Member GetChartProjection() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:317: warning: Member GetName() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:318: warning: Member GetDescription() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:319: warning: Member GetID() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:320: warning: Member GetSE() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:321: warning: Member GetDepthUnits() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:322: warning: Member GetSoundingsDatum() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:323: warning: Member GetDatumString() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:324: warning: Member GetExtraInfo() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:325: warning: Member GetPubDate() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:326: warning: Member GetChartErrorFactor() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:327: warning: Member GetDepthUnitId() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:328: warning: Member IsReadyToRender() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:329: warning: Member GetNativeScale() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:330: warning: Member GetChartSkew() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:331: warning: Member GetEditionDate(void) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:334: warning: Member ComputeSourceRectangle(const PlugIn_ViewPort &vp, wxRect *pSourceRect) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:336: warning: Member GetRasterScaleFactor() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:337: warning: Member GetChartBits(wxRect &source, unsigned char *pPix, int sub_samp) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:338: warning: Member GetSize_X() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:339: warning: Member GetSize_Y() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:340: warning: Member latlong_to_chartpix(double lat, double lon, double &pixx, double &pixy) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:342: warning: Member chartpix_to_latlong(double pixx, double pixy, double *plat, double *plon) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:346: warning: Member m_ChartType (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:347: warning: Member m_ChartFamily (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:349: warning: Member m_FullPath (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:350: warning: Member m_projection (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:351: warning: Member m_Chart_Scale (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:352: warning: Member m_Chart_Skew (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:354: warning: Member m_EdDate (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:355: warning: Member m_bReadyToRender (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:357: warning: Member m_Name (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:358: warning: Member m_Description (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:359: warning: Member m_ID (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:360: warning: Member m_SE (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:361: warning: Member m_SoundingsDatum (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:362: warning: Member m_datum_str (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:363: warning: Member m_PubYear (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:364: warning: Member m_DepthUnits (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:365: warning: Member m_ExtraInfo (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:367: warning: Member m_depth_unit_id (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:369: warning: Member m_Chart_Error_Factor (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:999: warning: Member GetLightsObjRuleListVisibleAtLatLon(float lat, float lon, PlugIn_ViewPort *VPoint) (function) of class PlugInChartBaseExtendedPlus2 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:955: warning: Member RenderRegionViewOnGL(const wxGLContext &glc, const PlugIn_ViewPort &VPoint, const wxRegion &Region, bool b_use_stencil) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:959: warning: Member RenderRegionViewOnDCNoText(const PlugIn_ViewPort &VPoint, const wxRegion &Region) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:961: warning: Member RenderRegionViewOnDCTextOnly(wxMemoryDC &dc, const PlugIn_ViewPort &VPoint, const wxRegion &Region) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:965: warning: Member RenderRegionViewOnGLNoText(const wxGLContext &glc, const PlugIn_ViewPort &VPoint, const wxRegion &Region, bool b_use_stencil) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:970: warning: Member RenderRegionViewOnGLTextOnly(const wxGLContext &glc, const PlugIn_ViewPort &VPoint, const wxRegion &Region, bool b_use_stencil) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:975: warning: Member GetObjRuleListAtLatLon(float lat, float lon, float select_radius, PlugIn_ViewPort *VPoint) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:978: warning: Member CreateObjDescriptions(ListOfPI_S57Obj *obj_list) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:980: warning: Member GetNoCOVREntries() (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:981: warning: Member GetNoCOVRTablePoints(int iTable) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:982: warning: Member GetNoCOVRTablenPoints(int iTable) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:983: warning: Member GetNoCOVRTableHead(int iTable) (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:985: warning: Member ClearPLIBTextList() (function) of class PlugInChartBaseExtended is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:283: warning: Member GetFileSearchMask(void) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:285: warning: Member Init(const wxString &full_path, int init_flags) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:286: warning: Member SetColorScheme(int cs, bool bApplyImmediate) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:288: warning: Member GetNormalScaleMin(double canvas_scale_factor, bool b_allow_overzoom) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:290: warning: Member GetNormalScaleMax(double canvas_scale_factor, int canvas_width) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:292: warning: Member GetNearestPreferredScalePPM(double target_scale_ppm) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:294: warning: Member GetChartExtent(ExtentPI *pext) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:296: warning: Member RenderRegionView(const PlugIn_ViewPort &VPoint, const wxRegion &Region) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:299: warning: Member AdjustVP(PlugIn_ViewPort &vp_last, PlugIn_ViewPort &vp_proposed) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:301: warning: Member GetValidCanvasRegion(const PlugIn_ViewPort &VPoint, wxRegion *pValidRegion) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:304: warning: Member GetCOVREntries() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:305: warning: Member GetCOVRTablePoints(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:306: warning: Member GetCOVRTablenPoints(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:307: warning: Member GetCOVRTableHead(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:309: warning: Member GetThumbnail(int tnx, int tny, int cs) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:313: warning: Member GetFullPath() const (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:314: warning: Member GetChartType() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:315: warning: Member GetChartFamily() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:316: warning: Member GetChartProjection() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:317: warning: Member GetName() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:318: warning: Member GetDescription() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:319: warning: Member GetID() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:320: warning: Member GetSE() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:321: warning: Member GetDepthUnits() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:322: warning: Member GetSoundingsDatum() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:323: warning: Member GetDatumString() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:324: warning: Member GetExtraInfo() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:325: warning: Member GetPubDate() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:326: warning: Member GetChartErrorFactor() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:327: warning: Member GetDepthUnitId() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:328: warning: Member IsReadyToRender() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:329: warning: Member GetNativeScale() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:330: warning: Member GetChartSkew() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:331: warning: Member GetEditionDate(void) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:334: warning: Member ComputeSourceRectangle(const PlugIn_ViewPort &vp, wxRect *pSourceRect) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:336: warning: Member GetRasterScaleFactor() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:337: warning: Member GetChartBits(wxRect &source, unsigned char *pPix, int sub_samp) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:338: warning: Member GetSize_X() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:339: warning: Member GetSize_Y() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:340: warning: Member latlong_to_chartpix(double lat, double lon, double &pixx, double &pixy) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:342: warning: Member chartpix_to_latlong(double pixx, double pixy, double *plat, double *plon) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:346: warning: Member m_ChartType (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:347: warning: Member m_ChartFamily (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:349: warning: Member m_FullPath (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:350: warning: Member m_projection (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:351: warning: Member m_Chart_Scale (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:352: warning: Member m_Chart_Skew (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:354: warning: Member m_EdDate (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:355: warning: Member m_bReadyToRender (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:357: warning: Member m_Name (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:358: warning: Member m_Description (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:359: warning: Member m_ID (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:360: warning: Member m_SE (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:361: warning: Member m_SoundingsDatum (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:362: warning: Member m_datum_str (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:363: warning: Member m_PubYear (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:364: warning: Member m_DepthUnits (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:365: warning: Member m_ExtraInfo (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:367: warning: Member m_depth_unit_id (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:369: warning: Member m_Chart_Error_Factor (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:916: warning: Member RenderRegionViewOnGL(const wxGLContext &glc, const PlugIn_ViewPort &VPoint, const wxRegion &Region, bool b_use_stencil) (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:920: warning: Member GetObjRuleListAtLatLon(float lat, float lon, float select_radius, PlugIn_ViewPort *VPoint) (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:923: warning: Member CreateObjDescriptions(ListOfPI_S57Obj *obj_list) (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:925: warning: Member GetNoCOVREntries() (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:926: warning: Member GetNoCOVRTablePoints(int iTable) (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:927: warning: Member GetNoCOVRTablenPoints(int iTable) (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:928: warning: Member GetNoCOVRTableHead(int iTable) (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:283: warning: Member GetFileSearchMask(void) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:285: warning: Member Init(const wxString &full_path, int init_flags) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:286: warning: Member SetColorScheme(int cs, bool bApplyImmediate) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:288: warning: Member GetNormalScaleMin(double canvas_scale_factor, bool b_allow_overzoom) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:290: warning: Member GetNormalScaleMax(double canvas_scale_factor, int canvas_width) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:292: warning: Member GetNearestPreferredScalePPM(double target_scale_ppm) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:294: warning: Member GetChartExtent(ExtentPI *pext) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:296: warning: Member RenderRegionView(const PlugIn_ViewPort &VPoint, const wxRegion &Region) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:299: warning: Member AdjustVP(PlugIn_ViewPort &vp_last, PlugIn_ViewPort &vp_proposed) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:301: warning: Member GetValidCanvasRegion(const PlugIn_ViewPort &VPoint, wxRegion *pValidRegion) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:304: warning: Member GetCOVREntries() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:305: warning: Member GetCOVRTablePoints(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:306: warning: Member GetCOVRTablenPoints(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:307: warning: Member GetCOVRTableHead(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:309: warning: Member GetThumbnail(int tnx, int tny, int cs) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:313: warning: Member GetFullPath() const (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:314: warning: Member GetChartType() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:315: warning: Member GetChartFamily() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:316: warning: Member GetChartProjection() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:317: warning: Member GetName() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:318: warning: Member GetDescription() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:319: warning: Member GetID() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:320: warning: Member GetSE() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:321: warning: Member GetDepthUnits() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:322: warning: Member GetSoundingsDatum() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:323: warning: Member GetDatumString() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:324: warning: Member GetExtraInfo() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:325: warning: Member GetPubDate() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:326: warning: Member GetChartErrorFactor() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:327: warning: Member GetDepthUnitId() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:328: warning: Member IsReadyToRender() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:329: warning: Member GetNativeScale() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:330: warning: Member GetChartSkew() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:331: warning: Member GetEditionDate(void) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:334: warning: Member ComputeSourceRectangle(const PlugIn_ViewPort &vp, wxRect *pSourceRect) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:336: warning: Member GetRasterScaleFactor() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:337: warning: Member GetChartBits(wxRect &source, unsigned char *pPix, int sub_samp) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:338: warning: Member GetSize_X() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:339: warning: Member GetSize_Y() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:340: warning: Member latlong_to_chartpix(double lat, double lon, double &pixx, double &pixy) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:342: warning: Member chartpix_to_latlong(double pixx, double pixy, double *plat, double *plon) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:346: warning: Member m_ChartType (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:347: warning: Member m_ChartFamily (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:349: warning: Member m_FullPath (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:350: warning: Member m_projection (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:351: warning: Member m_Chart_Scale (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:352: warning: Member m_Chart_Skew (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:354: warning: Member m_EdDate (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:355: warning: Member m_bReadyToRender (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:357: warning: Member m_Name (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:358: warning: Member m_Description (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:359: warning: Member m_ID (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:360: warning: Member m_SE (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:361: warning: Member m_SoundingsDatum (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:362: warning: Member m_datum_str (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:363: warning: Member m_PubYear (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:364: warning: Member m_DepthUnits (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:365: warning: Member m_ExtraInfo (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:367: warning: Member m_depth_unit_id (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:369: warning: Member m_Chart_Error_Factor (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:941: warning: Member GetLightsObjRuleListVisibleAtLatLon(float lat, float lon, PlugIn_ViewPort *VPoint) (function) of class PlugInChartBaseGLPlus2 is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:916: warning: Member RenderRegionViewOnGL(const wxGLContext &glc, const PlugIn_ViewPort &VPoint, const wxRegion &Region, bool b_use_stencil) (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:920: warning: Member GetObjRuleListAtLatLon(float lat, float lon, float select_radius, PlugIn_ViewPort *VPoint) (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:923: warning: Member CreateObjDescriptions(ListOfPI_S57Obj *obj_list) (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:925: warning: Member GetNoCOVREntries() (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:926: warning: Member GetNoCOVRTablePoints(int iTable) (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:927: warning: Member GetNoCOVRTablenPoints(int iTable) (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:928: warning: Member GetNoCOVRTableHead(int iTable) (function) of class PlugInChartBaseGL is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:283: warning: Member GetFileSearchMask(void) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:285: warning: Member Init(const wxString &full_path, int init_flags) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:286: warning: Member SetColorScheme(int cs, bool bApplyImmediate) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:288: warning: Member GetNormalScaleMin(double canvas_scale_factor, bool b_allow_overzoom) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:290: warning: Member GetNormalScaleMax(double canvas_scale_factor, int canvas_width) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:292: warning: Member GetNearestPreferredScalePPM(double target_scale_ppm) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:294: warning: Member GetChartExtent(ExtentPI *pext) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:296: warning: Member RenderRegionView(const PlugIn_ViewPort &VPoint, const wxRegion &Region) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:299: warning: Member AdjustVP(PlugIn_ViewPort &vp_last, PlugIn_ViewPort &vp_proposed) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:301: warning: Member GetValidCanvasRegion(const PlugIn_ViewPort &VPoint, wxRegion *pValidRegion) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:304: warning: Member GetCOVREntries() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:305: warning: Member GetCOVRTablePoints(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:306: warning: Member GetCOVRTablenPoints(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:307: warning: Member GetCOVRTableHead(int iTable) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:309: warning: Member GetThumbnail(int tnx, int tny, int cs) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:313: warning: Member GetFullPath() const (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:314: warning: Member GetChartType() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:315: warning: Member GetChartFamily() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:316: warning: Member GetChartProjection() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:317: warning: Member GetName() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:318: warning: Member GetDescription() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:319: warning: Member GetID() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:320: warning: Member GetSE() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:321: warning: Member GetDepthUnits() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:322: warning: Member GetSoundingsDatum() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:323: warning: Member GetDatumString() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:324: warning: Member GetExtraInfo() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:325: warning: Member GetPubDate() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:326: warning: Member GetChartErrorFactor() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:327: warning: Member GetDepthUnitId() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:328: warning: Member IsReadyToRender() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:329: warning: Member GetNativeScale() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:330: warning: Member GetChartSkew() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:331: warning: Member GetEditionDate(void) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:334: warning: Member ComputeSourceRectangle(const PlugIn_ViewPort &vp, wxRect *pSourceRect) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:336: warning: Member GetRasterScaleFactor() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:337: warning: Member GetChartBits(wxRect &source, unsigned char *pPix, int sub_samp) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:338: warning: Member GetSize_X() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:339: warning: Member GetSize_Y() (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:340: warning: Member latlong_to_chartpix(double lat, double lon, double &pixx, double &pixy) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:342: warning: Member chartpix_to_latlong(double pixx, double pixy, double *plat, double *plon) (function) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:346: warning: Member m_ChartType (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:347: warning: Member m_ChartFamily (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:349: warning: Member m_FullPath (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:350: warning: Member m_projection (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:351: warning: Member m_Chart_Scale (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:352: warning: Member m_Chart_Skew (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:354: warning: Member m_EdDate (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:355: warning: Member m_bReadyToRender (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:357: warning: Member m_Name (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:358: warning: Member m_Description (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:359: warning: Member m_ID (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:360: warning: Member m_SE (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:361: warning: Member m_SoundingsDatum (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:362: warning: Member m_datum_str (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:363: warning: Member m_PubYear (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:364: warning: Member m_DepthUnits (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:365: warning: Member m_ExtraInfo (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:367: warning: Member m_depth_unit_id (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:369: warning: Member m_Chart_Error_Factor (variable) of class PlugInChartBase is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1741: warning: Member lat (variable) of struct PluginNavdata is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1742: warning: Member lon (variable) of struct PluginNavdata is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1743: warning: Member sog (variable) of struct PluginNavdata is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1744: warning: Member cog (variable) of struct PluginNavdata is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1745: warning: Member var (variable) of struct PluginNavdata is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1746: warning: Member hdt (variable) of struct PluginNavdata is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1747: warning: Member time (variable) of struct PluginNavdata is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1693: warning: Member SignalkId(const std::string &s) (function) of struct SignalkId is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/ocpn_plugin.h:1692: warning: Member id (variable) of struct SignalkId is not documented.
+/home/runner/work/OpenCPN/OpenCPN/include/intro.h:4: warning: Found unknown command '\title'
+/home/runner/work/OpenCPN/OpenCPN/include/intro.h:4: warning: Found unknown command '\title'

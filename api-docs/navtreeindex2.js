@@ -1,0 +1,19 @@
+var NAVTREEINDEX2 =
+{
+"structPluginNavdata.html":[3,0,47],
+"structPluginNavdata.html#a12ef813253673acd3927c3498f545116":[3,0,47,6],
+"structPluginNavdata.html#a483f6af2376127261fbca626ced4ef1c":[3,0,47,0],
+"structPluginNavdata.html#a775e096bfe6084140c74e2eacc882017":[3,0,47,3],
+"structPluginNavdata.html#a79afd6ac4904d4dfcc21558edd740e58":[3,0,47,2],
+"structPluginNavdata.html#a943ac93997eebef08397492963466db9":[3,0,47,4],
+"structPluginNavdata.html#adf42f088bdf427c218a0e9c5aa7552e6":[3,0,47,1],
+"structPluginNavdata.html#aea7ef162b14636d3fa2f0a2e350fbc53":[3,0,47,5],
+"structSignalkId.html":[3,0,48],
+"structSignalkId.html#a3f4228bc002a692c2679435769de72ca":[3,0,48,0],
+"structSignalkId.html#aa58b5a3654e888df02f3e03b987a36f5":[3,0,48,1],
+"struct__ExtentPI.html":[3,0,1],
+"struct__ExtentPI.html#a0749a20275bee88647b271dde02e1d1b":[3,0,1,1],
+"struct__ExtentPI.html#a1bef5cf8a2b7256fd267da26a91ed1df":[3,0,1,3],
+"struct__ExtentPI.html#a73cea0198d0dbc88139ef1bd8ca97d2f":[3,0,1,2],
+"struct__ExtentPI.html#aa6826ac4c742c8f9864f790a9618bb49":[3,0,1,0]
+};
